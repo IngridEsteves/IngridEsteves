@@ -9,6 +9,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <p align="centre"><b>Sempre Aprendendo</b></p> 
   <img align="center" alt="Ingrid-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ingrid-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Ingrid-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -43,3 +44,11 @@
 </div>
 
 ##
+
+<div align="center">
+  <br><p align="centre"><b>Visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IngridEsteves}/count.svg" /></p> 
+  <br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fe80f1&height=120&section=footer"/>
