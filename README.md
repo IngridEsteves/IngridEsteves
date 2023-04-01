@@ -44,4 +44,6 @@
 
 ##
 
-![Snake animation](https://github.ccom/IngridEsteves
+<div align="center">
+<p align="center"><img align="center" src="https://github.com/oadoficial/oadoficial/blob/output/github-contribution-grid-snake.svg" /></p>
+</div>
