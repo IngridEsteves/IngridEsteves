@@ -46,7 +46,7 @@
 ##
 
 <div align="center">
-  <br><p align="centre"><b>Visitantes</b></p>  
+  <br><p align="center"><b>Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IngridEsteves}/count.svg" /></p> 
   <br>
 </div>
