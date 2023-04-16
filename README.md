@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/IngridEsteves">
-  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=IngridEsteves&show_icons=true&theme=radical&include_all_commits=true&icon_color=e099d3&count_private=true"/> 
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=IngridEsteves&show_icons=true&theme=radical&icon_color=e099d3&count_private=true"/> 
   <img width="49%" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridEsteves&layout=compact&langs_count=168&theme=radical"/>
 </div>
 
